@@ -26,3 +26,8 @@ opengl3_example/x64/*
 
 ## Ini files
 imgui.ini
+
+# build byproducts
+*.o
+opengl_example/imgui_example
+opengl3_example/imgui_example

@@ -1,1 +1,4 @@
 imgui.ini
+
+# build byproducts
+*.o
